@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h1U3M6V+FiixL9arkj+9Q1PD9P6kiKdwjc/Byqq4cHQ=",
+  "Source": "DeployTest.Api",
+  "BasePath": "_content/DeployTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
