@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\DeployTest\\DeployTest\\DeployTest.Test\\DeployTest.Test.csproj": {}
+    "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\github\\TestDeploy\\DeployTest.Test\\DeployTest.Test.csproj": {}
   },
   "projects": {
-    "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\DeployTest\\DeployTest\\DeployTest.Test\\DeployTest.Test.csproj": {
+    "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\github\\TestDeploy\\DeployTest.Test\\DeployTest.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\DeployTest\\DeployTest\\DeployTest.Test\\DeployTest.Test.csproj",
+        "projectUniqueName": "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\github\\TestDeploy\\DeployTest.Test\\DeployTest.Test.csproj",
         "projectName": "DeployTest.Test",
-        "projectPath": "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\DeployTest\\DeployTest\\DeployTest.Test\\DeployTest.Test.csproj",
+        "projectPath": "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\github\\TestDeploy\\DeployTest.Test\\DeployTest.Test.csproj",
         "packagesPath": "C:\\Users\\chimi\\.nuget\\packages\\",
-        "outputPath": "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\DeployTest\\DeployTest\\DeployTest.Test\\obj\\",
+        "outputPath": "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\github\\TestDeploy\\DeployTest.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -80,15 +85,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.26, 6.0.26]"
+              "version": "[6.0.29, 6.0.29]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.26, 6.0.26]"
+              "version": "[6.0.29, 6.0.29]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.26, 6.0.26]"
+              "version": "[6.0.29, 6.0.29]"
             }
           ],
           "frameworkReferences": {
@@ -96,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

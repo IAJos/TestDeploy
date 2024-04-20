@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cvnJI6vyzVaVCqTka9eBorrfBjwSYWxo+QmogWzkA5FkR7kgyuF1L2h2zElQFB7Tex9b856k4vZXDd8wpgQxbw==",
+  "dgSpecHash": "hf1A8OkFqlhP3FT/ZlhqqJW/tS5a9SYma5kn71A9DugoiLS4vggRQJuEdE3bIulmJRwRzSkbAMM74/+rwPV9Xw==",
   "success": true,
-  "projectFilePath": "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\DeployTest\\DeployTest\\DeployTest.Test\\DeployTest.Test.csproj",
+  "projectFilePath": "G:\\Formations\\DevOps\\AzureDevOps\\Learn Azure DevOps CICD pipelines\\Test\\github\\TestDeploy\\DeployTest.Test\\DeployTest.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chimi\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\chimi\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
@@ -17,9 +17,9 @@
     "C:\\Users\\chimi\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
     "C:\\Users\\chimi\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
     "C:\\Users\\chimi\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
-    "C:\\Users\\chimi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\chimi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\chimi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+    "C:\\Users\\chimi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\chimi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\chimi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }
